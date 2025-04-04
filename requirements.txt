@@ -1,0 +1,11 @@
+numpy
+Pillow
+matplotlib
+seaborn
+plotly
+scikit-image
+scikit-learn
+sortedcontainers
+torch
+torchvision
+tqdm
